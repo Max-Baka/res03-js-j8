@@ -1,4 +1,4 @@
-class Ingredient{
+class Ingredients{
     #name;
     #file;
     
@@ -23,3 +23,5 @@ class Ingredient{
         this.#file = file;
     }
 }
+
+export { Ingredients };
